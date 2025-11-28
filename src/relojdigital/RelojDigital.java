@@ -41,7 +41,7 @@ public class RelojDigital
         ClockDisplay reloj2 = new ClockDisplay();    // segunda forma
         reloj2.setTime("01:00");
 
-        System.out.println("Hora establecida manualmente: " + reloj2.getTime());
+        System.out.println("Hora establecida manualmente : " + reloj2.getTime());
     }
     
 }
